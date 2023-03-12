@@ -1,0 +1,19 @@
+what is git-----
+git is version control sofware.
+
+what is version control software?
+
+GIT full form = global iknformation tracker
+
+git vs gitHUB?
+git-
+---------------------------------
+repositoreis= a folder contains all the files related to a project
+readMe = basic instruuction about the projedct
+commit=saving the state
+
+
+branch=
+merge=
+fork=
+pull=
